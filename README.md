@@ -19,6 +19,14 @@ Here are some ideas to get you started:
 
 ###
 
+<p align="left">
+  ✨ Creating bugs since I wrote my first `Hello World` in C++
+  <br>📚 I'm currently learning Angular and deepening my frontend skills
+  <br>🎯 Goals: Become a full-stack developer and contribute to open source
+  <br>🎲 Fun fact: Fun fact: Sometimes I fix bugs without realizing it or just by starting to look for them, but I always do it with a good attitude!
+</p>
+
+###
 <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Javiervg0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Javiervg0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -48,7 +56,6 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
 </div>
 
 ###
